@@ -1,6 +1,6 @@
 **Namaste!!!!!** 👋
 
-https://github.com/Vanshanium/Vanshanium/blob/main/IMG_4638.png
+!(https://github.com/Vanshanium/Vanshanium/blob/main/IMG_4638.png)
 
 <!--
 **Vanshanium/Vanshanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
