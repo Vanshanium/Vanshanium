@@ -1,6 +1,6 @@
 **Namaste!!!!!** 👋
 
-<img src = "https://drive.google.com/file/d/1-rMAz4QZCyVtuSvHfVt0bdQm0RbR_3p8/preview">
+<img src = "https://i.imgur.com/V5QDIjz.png">
 
 <!--
 **Vanshanium/Vanshanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
