@@ -8,8 +8,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=voob&style=for-the-badge&color=318BCC)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanium&layout=donut&theme=dracula&bg_color=0D1017" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanium&layout=donut&theme=dracula&bg_color=0D1017&hide_border=true" width="45%" style="vertical-align: top;" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshanium&show_icons=true&theme=dracula&bg_color=0D1017&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="50%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshanium&show_icons=true&theme=dracula&bg_color=0D1017&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="50%" style="vertical-align: top;" />
 </p>
+
