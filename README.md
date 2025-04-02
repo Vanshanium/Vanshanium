@@ -2,10 +2,10 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Voob-318BCC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voob/)&emsp;
+![Profile Views](https://komarev.com/ghpvc/?username=voob&style=for-the-badge&color=318BCC)&emsp;&emsp;&emsp;&emsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Voob-318BCC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voob/)&emsp;&emsp;&emsp;&emsp;
 [![Behance](https://img.shields.io/badge/Behance-Voob-65DEB1?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/voob)
 
-![Profile Views](https://komarev.com/ghpvc/?username=voob&style=for-the-badge&color=318BCC)
 
 <table>
   <tr>
